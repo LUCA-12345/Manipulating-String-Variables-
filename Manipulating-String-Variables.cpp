@@ -1,6 +1,3 @@
-//Lab10A
-//Programmer : Luke Tascone 
-
 #include <iostream>
 #include <string>
 #include <cstdlib> 
@@ -33,7 +30,7 @@ int main ()
     }
 
 
-    //cout << "test::" << info[0].length() << endl;
+   
     
 
     cout << "Enter a name or partial name to search for: ";
